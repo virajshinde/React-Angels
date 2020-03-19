@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Angels/static/css/main.0d5eb7ea.chunk.css",
+    "main.js": "/React-Angels/static/js/main.91bc98ee.chunk.js",
+    "main.js.map": "/React-Angels/static/js/main.91bc98ee.chunk.js.map",
+    "runtime-main.js": "/React-Angels/static/js/runtime-main.ed13b982.js",
+    "runtime-main.js.map": "/React-Angels/static/js/runtime-main.ed13b982.js.map",
+    "static/js/2.424742b0.chunk.js": "/React-Angels/static/js/2.424742b0.chunk.js",
+    "static/js/2.424742b0.chunk.js.map": "/React-Angels/static/js/2.424742b0.chunk.js.map",
+    "index.html": "/React-Angels/index.html",
+    "precache-manifest.abbc2c58d3814052316e53a7bfed1385.js": "/React-Angels/precache-manifest.abbc2c58d3814052316e53a7bfed1385.js",
+    "service-worker.js": "/React-Angels/service-worker.js",
+    "static/css/main.0d5eb7ea.chunk.css.map": "/React-Angels/static/css/main.0d5eb7ea.chunk.css.map",
+    "static/js/2.424742b0.chunk.js.LICENSE.txt": "/React-Angels/static/js/2.424742b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed13b982.js",
+    "static/js/2.424742b0.chunk.js",
+    "static/css/main.0d5eb7ea.chunk.css",
+    "static/js/main.91bc98ee.chunk.js"
+  ]
+}
